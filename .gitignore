@@ -1,7 +1,17 @@
+# Environment variables and secrets
 .env
+.streamlit/secrets.toml
+
+# Python virtual environments
 .venv/
 venv/
+
+# Python cache
 __pycache__/
 *.py[cod]
-.streamlit/secrets.toml
+
+# Old vector database
 vectorstore/
+
+# Private and sample PDFs
+*.pdf
