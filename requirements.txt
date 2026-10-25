@@ -132,3 +132,4 @@ wheel==0.48.0
 xxhash==4.0.2
 yarl==1.25.1
 zstandard==0.25.0
+scikit-learn
